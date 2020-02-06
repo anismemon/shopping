@@ -2,3 +2,4 @@ tea
 pastries
 salted caramel ice cream
 ketchup
+bananas

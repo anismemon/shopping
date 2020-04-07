@@ -1,5 +1,4 @@
 tea
-cheddar
-parmiggiano
-brie
-mozarella
+saltines
+bagel chips
+

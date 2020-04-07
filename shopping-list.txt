@@ -1,6 +1,5 @@
 tea
-pastries
-salted caramel ice cream
-ketchup
-bananas
-hot chocolate
+cheddar
+parmiggiano
+brie
+mozarella
